@@ -3,21 +3,24 @@ Hello, fellow developers and app aficionados! 📱 I'm an App Developer, but you
 
 ## My App Dev Stack
 
-```python
-class AppDeveloper:
-    def __init__(self):
-        self.languages = ["Swift", "Kotlin", "JavaScript"]
-        self.frameworks = ["Flutter", "React Native", "SwiftUI"]
-        self.currently_learning = "Augmented Reality (AR) Integration"
-        self.fun_fact = "I write my to-do lists in JSON format for extra satisfaction."
+```
+class AppDeveloper {
+  List<String> languages = ["Swift", "Kotlin", "JavaScript", "Dart"];
+  List<String> frameworks = ["Flutter", "React Native", "SwiftUI"];
+  String currentlyLearning = "Augmented Reality (AR) Integration";
+  String funFact = "I write my to-do lists in JSON format for extra satisfaction.";
 
-    def build_app(self):
-        print("Sketching the wireframe...")
-        print("Writing endless lines of code...")
-        print("Hitting 'run' and praying it looks the same on all devices...")
-        
-app_dev = AppDeveloper()
-app_dev.build_app()
+  void buildApp() {
+    print("Sketching the wireframe...");
+    print("Writing endless lines of code...");
+    print("Hitting 'run' and praying it looks the same on all devices...");
+  }
+}
+
+void main() {
+  var appDev = AppDeveloper();
+  appDev.buildApp();
+}
 ```
 
 ### Projects in My Portfolio
