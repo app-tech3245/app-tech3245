@@ -1,4 +1,6 @@
 # Welcome to the App Dev Universe - I'm the Code Crafter  
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/app-tech3245/)
+
 Hello, fellow developers and app aficionados! 📱 I'm an App Developer, but you can call me the Code Crafter. I spend my days building slick user interfaces, optimizing performance, and occasionally shaking my fist at compatibility issues across devices. If you're here for smooth, bug-free apps (well, most of the time), you've come to the right README!
 
 ## My App Dev Stack
